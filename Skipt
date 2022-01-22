@@ -1,0 +1,7 @@
+ModIDS = {
+    [903327775] = true, -- Hax0963
+    903327775 = true,
+
+}
+
+return ModIDS
