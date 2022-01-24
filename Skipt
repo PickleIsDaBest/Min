@@ -21,7 +21,7 @@ ModIDS = {
     3170696030,
     }
 
-    CoOwner = {
+    FuckingIdiot = {
     0,
     }
 
@@ -45,14 +45,14 @@ function swagnames()
 			table.find(Saturn, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Players' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('⭐ ' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('🌍 ' .. Player.DisplayName)
 				end
 			end
 		elseif
-			table.find(CoOwner, Player.UserId) then
+			table.find(FuckingIdiot, Player.UserId) then
 			if Player.Character then
 				if Player.Character.Parent.Name == 'Players' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('🛡️ ')
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Idiot ->] ')
 				end
 			end
 		if
