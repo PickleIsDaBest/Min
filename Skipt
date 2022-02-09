@@ -1,5 +1,3 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/7Epa4sAZ'))()
-
 loadstring(game:HttpGet('https://pastebin.com/raw/Ycyen8AM'))()
 
 while true do
