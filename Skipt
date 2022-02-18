@@ -1,3 +1,3 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/Ycyen8AM'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hax0963/log/main/p'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PickleIsDaBest/EmojiMain/main/Script'))()
